@@ -1,6 +1,5 @@
-# Firebase: Build a Real Time Web Chat App Codelab - Start code
+# Firebase: Build a Real Time Web Chat App Codelab
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+This repo includes the finished product after going through  the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
-# firebase-friendlychat
+If you'd like to see the finished project (hosted at Firebase), go to [Friendly Chat](https://friendlychat-833dd.firebaseapp.com/).
